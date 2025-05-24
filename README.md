@@ -19,4 +19,7 @@
 ## ☕ Let's Connect!
 - LinkedIn:
 https://www.linkedin.com/in/vishnupriya-ravichandran-51bb93250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+- GITHUB stats : https://github-readme-stats.vercel.app/api?username=Vishnupriyaweby&show_icons=true&theme=radical&hide_border=true
+
 - Email: vishnupriyaroff@gmail.com
