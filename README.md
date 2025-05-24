@@ -1,5 +1,5 @@
 # First-kick-# 
-👋 Hello World! I'm [VISHNUPRIYA RAVICHANDRAN]
+👋 Hello World! I'm VISHNUPRIYA RAVICHANDRAN
 
 **💻 Code Explorer | 🛠️ Problem Solver | 🌱 Forever Learning**
 
